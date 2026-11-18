@@ -45,9 +45,9 @@ Also useful: a private notes file outside the repository, for deadlines in your 
 
 Start here:
 
-**Sign up via this referral link: https://make.fun/r/eepxxyh5**
+**Sign up via this referral link: https://make.fun/r/jt2hna41**
 
-If a form asks for the code on its own, it is `eepxxyh5`.
+If a form asks for the code on its own, it is `jt2hna41`.
 
 Signing up is only half of this step. The other half is linking — skipping it is the most common unforced error new entrants make. Open your profile and:
 
@@ -223,6 +223,6 @@ Share yours as this guide has tried to model: at people who will genuinely take 
 
 If you have an agent, a wallet, Node 22, and a GitHub account, you have everything this guide asked for. The rest is doing the steps in order: account, pairing, reading, fresh kit, fresh session, build, check, submit, verify.
 
-Sign up here: https://make.fun/r/eepxxyh5 — code `eepxxyh5`
+Sign up here: https://make.fun/r/jt2hna41 — code `jt2hna41`
 
 Then pick one bounty — one — read its page twice, and enter it properly. One entry built carefully, in a clean session, with checks run and status verified, teaches you more than a month of reading about it. Good luck.
